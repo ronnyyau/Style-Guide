@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&family=Poppins:wght@400;500&display=swap');
+
+body{
+  line-height:25px;
+}
+div{
+  border: 1px solid #a2a2a6;
+  margin: 10px 0px;
+}
+.Fonts ul{
+  list-style:none;
+}
+h3{
+  text-decoration:underline;
+}
+li.Bold{
+  font-weight:bold;
+}
+li.Italic{
+  font-style:italic;
+}
+.Colors p{
+  display:inline-block;
+  height:70px;
+  width:200px;
+  text-align:center;
+  margin:5px;
+  line-height:30px;
+}
+.Colors p#Blue{
+  color:white;
+  border: 1px solid #2d5dcc;
+  background-color:#2d5dcc;
+}
+.Colors p#Pink{
+  border: 1px solid #d957d9;
+  background-color:#d957d9;
+}
+.Colors p#Green{
+  border: 1px solid #4fe0b0;
+  background-color:#4fe0b0;
+}
+.Colors p#Beige{
+  border: 1px solid #efd9ca;
+  background-color:#efd9ca;
+}
+#Source-Code-Pro{
+  font-style:'Source Code Pro', sans-serif;
+}
+#Nunito-Sans{
+  font-family: 'Nunito Sans', sans-serif;
+}
+#Poppins{
+  font-family: 'Poppins', sans-serif;
+}
